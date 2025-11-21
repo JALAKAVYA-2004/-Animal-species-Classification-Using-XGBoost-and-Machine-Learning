@@ -1,4 +1,4 @@
-# -Animal-species-Classification-Using-XGBoost-and-Machine-Learning
+# Animal-species-Classification-Using-XGBoost-and-Machine-Learning
 This project focuses on classifying animal species based on various biological features using machine learning algorithms, with XGBoost as the primary model. The goal is to create a robust and accurate predictive model that can automatically identify species, providing insights into the key characteristics that distinguish different animals.
 
 🐾 Animal Classification Using Machine Learning
